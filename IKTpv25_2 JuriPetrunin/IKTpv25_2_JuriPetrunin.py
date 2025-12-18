@@ -1,4 +1,4 @@
-from module1 import lisa_andmeid
+from module1 import
 
 
 palgad=[1000,1200,2500,800,750,1200]
